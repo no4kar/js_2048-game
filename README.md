@@ -17,7 +17,7 @@ This project is an implementation of the popular 2048 game using JavaScript. The
 - Continue merging tiles strategically to reach the elusive 2048 tile.
 
 ## Deployment:
-The game is deployed and accessible online at [2048 Game](https://no4kar.github.io/js_2048_game/). Click the link to start playing instantly!
+The game is deployed and accessible online at [2048 Game](https://no4kar.github.io/js_2048-game/). Click the link to start playing instantly!
 
 ## Contribution:
 Contributions, bug reports, and feedback are welcome! Feel free to fork the repository and submit pull requests to suggest improvements or fix any issues you encounter.
