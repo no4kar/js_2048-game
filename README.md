@@ -25,6 +25,6 @@ Contributions, bug reports, and feedback are welcome! Feel free to fork the repo
 ![Preview](./src/images/reference.png)
 
 ## Credits:
-This project was developed by me and is based on the original 2048 game created by Gabriele Cirulli.
+This project was developed by me but is based on the original 2048 game created by Gabriele Cirulli.
 
 ## Start playing now and see if you can reach the 2048 tile!
