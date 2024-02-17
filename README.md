@@ -9,7 +9,6 @@ This project is an implementation of the popular 2048 game using JavaScript. The
 2) Responsive design, playable on both desktop and mobile devices.
 3) Score tracking to keep track of your progress.
 4) Ability to restart the game at any time.
-5) Enjoyable sound effects for a more immersive experience.
 
 ## How to Play:
 - Use the arrow keys or swipe gestures (on mobile) to move the tiles in the desired direction.
@@ -26,6 +25,6 @@ Contributions, bug reports, and feedback are welcome! Feel free to fork the repo
 ![Preview](./src/images/reference.png)
 
 ## Credits:
-This project was developed by [Your Name] and is based on the original 2048 game created by Gabriele Cirulli.
+This project was developed by me and is based on the original 2048 game created by Gabriele Cirulli.
 
 ## Start playing now and see if you can reach the 2048 tile!
